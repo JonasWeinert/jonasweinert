@@ -11,25 +11,20 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jweinert1997/)
 
-**Have a look at some of my past projects:**
+### Have a look at some of my past projects:
 
-📊 Research: [Survival Analysis - Benchmarking estimation methods for mean total medical costs under moderat censoring withpout cost interval information](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring)
+#### 📊 Research: 
+- [Survival Analysis - Benchmarking estimation methods for mean total medical costs under moderat censoring withpout cost interval information](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring)
+- Survival Analysis XX
+- Impact & process evaluation: private
 
-📊 Research: Survival Analysis XX
+#### 🔗 Software
+- a
+- b
 
-📊 Research: Impact & process evaluation: private
-
-
-🔗 Software: ODK 1
-
-🔗 Software: ODK 2
-
-🔗 Software: Excel WOrd Interface
-
-🖥️ Web Development 1: 
-
-🖥️ Web Development 2: 
-
+#### 🖥️ Web Development
+- a
+-b
 
 
 

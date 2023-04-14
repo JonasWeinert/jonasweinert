@@ -13,7 +13,7 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 
 **Have a look at some of my past projects:**
 
-📊 Research: XXYY
+📊 Research: [Survival Analysis - Benchmarking estimation methods for mean total medical costs under moderat censoring withpout cost interval information](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring)
 
 📊 Research: Survival Analysis XX
 

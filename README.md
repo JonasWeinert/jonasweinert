@@ -14,19 +14,17 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 ### Have a look at some of my past projects:
 
 #### 📊 Research: 
-- [Survival Analysis - Benchmarking estimation methods for mean total medical costs under moderat censoring withpout cost interval information](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring)
-- Survival Analysis XX
-- Impact & process evaluation: private
+- [Survival Analysis - Benchmarking estimation methods for mean total medical costs under moderat censoring without cost interval information](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring)
+- [Impact Analysis - Risk perception, information, and policy preferences during a pandemic: Experimental evidence from El Salvador](https://github.com/JonasWeinert/39545_dissertation)
+- [Qualitative Content analysis - Discursive Institutionalyst analysis of German migration policy](https://github.com/JonasWeinert/CDU_Migrationpolicy_IdeationalAnalysis)
 
 #### 🔗 Software
-- a
-- b
-
+- [ODKCleaner - Web app that generates Stata cleaning code for your ODK-generated dataset](https://github.com/JonasWeinert/ODK_CleaningcodeGenerator)
+- [Cluster Data Merger - Web app that allows users to merge multi level datasets in wide or long format using a common unique identifier](https://github.com/JonasWeinert/ClusterDatasetMerger)
 #### 🖥️ Web Development
-- a
--b
+Please see [web design my portfolio](https://www.jw-mediaservice.de) for an overview of my web development projects.
 
-
+#
 
 
 

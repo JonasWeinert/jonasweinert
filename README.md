@@ -10,3 +10,5 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 - 🌱 I’m currently learning [LangChain](https://github.com/hwchase17/langchain)
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jweinert1997/)
+
+{include} projects.md

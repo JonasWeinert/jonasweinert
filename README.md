@@ -11,5 +11,5 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jweinert1997/)
 
-```{include} projects.md
+```{include} [projects](https://github.com/JonasWeinert/jonasweinert/blob/a19407a1c385f26161145bfb3c94158c215c300d/projects)https://github.com/JonasWeinert/jonasweinert/blob/a19407a1c385f26161145bfb3c94158c215c300d/projects
 ```

@@ -19,6 +19,7 @@ I love economics & econometrics, where I focus on expeerimental and quasi-experi
 - [Qualitative Content analysis - Discursive Institutionalyst analysis of German migration policy](https://github.com/JonasWeinert/CDU_Migrationpolicy_IdeationalAnalysis)
 
 #### 🔗 Software
+- [Automatic translator for XLSForm survey templates using free Google Cloud API](https://github.com/JonasWeinert/XLSFormTranslator/)
 - [ODKCleaner - Web app that generates Stata cleaning code for your ODK-generated dataset](https://github.com/JonasWeinert/ODK_CleaningcodeGenerator)
 - [Cluster Data Merger - Web app that allows users to merge multi level datasets in wide or long format using a common unique identifier](https://github.com/JonasWeinert/ClusterDatasetMerger)
 #### 🖥️ Web Development

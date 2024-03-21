@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jonas - A Global Health economist with a passion for data science</h1>
+<h1 align="center">Hi 👋, I am Jonas - A Global Health economist with a passion for data science</h1>
 
 <h2 align="center">I am passionate about finding ways to use Python, LLMs, and other technologies to make organisations more efficient</h3>
 

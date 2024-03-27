@@ -19,6 +19,7 @@ I love economics & econometrics, where I focus on experimental and quasi-experim
 - [Qualitative Content analysis - Discursive Institutionalyst analysis of German migration policy](https://github.com/JonasWeinert/CDU_Migrationpolicy_IdeationalAnalysis)
 
 #### 🔗 Software
+- [Proposal Tutor: AI Agent that provides feedback on research proposals, built using LangChain & Streamlit](https://github.com/JonasWeinert/ProposalFeedback)
 - [Local Automated Transcription and Content Analysis (LATACA) - High accuracy on device ASR with diarization & semantic text classification](https://github.com/JonasWeinert/LATACA)
 - [Automatic translator for XLSForm survey templates using free Google Cloud API](https://github.com/JonasWeinert/XLSFormTranslator/)
 - [ODKCleaner - Web app that generates Stata cleaning code for your ODK-generated dataset](https://github.com/JonasWeinert/ODK_CleaningcodeGenerator)

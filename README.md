@@ -6,7 +6,7 @@
 I love economics & econometrics, where I focus on experimental and quasi-experimental causal inference for impact evaluations. I am also fascinated with finding ways to leverage data and technology to generate automations, visualisations, and other insights in organisational settings.
 
 - 🌎 I am currently based in London
-- 🔭 I’m working as a Monitoring & Evaluation consultant on international developemnt projects in Global Health
+- 🔭 I’m working as an impact evaluation & causal inference consultant on international developemnt projects in Global Health
 - 🌱 I’m currently learning DevOps & AWS IAC
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jweinert1997/)

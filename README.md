@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I am Jonas - A Global Health economist with a passion for data science</h1>
 
-<h2 align="center">I am passionate about finding ways to use Python, LLMs, and other technologies to make organisations more efficient</h3>
+<h2 align="center">I am passionate about reproducible research and finding ways of using technologies to make organisations more efficient</h3>
 
 I love economics & econometrics, where I focus on experimental and quasi-experimental causal inference for impact evaluations. I am also fascinated with finding ways to leverage data and technology to generate automations, visualisations, and other insights in organisational settings.
 

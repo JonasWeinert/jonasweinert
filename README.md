@@ -19,6 +19,7 @@ I love economics & econometrics, where I focus on experimental and quasi-experim
 - [Qualitative Content analysis - Discursive Institutionalyst analysis of German migration policy](https://github.com/JonasWeinert/CDU_Migrationpolicy_IdeationalAnalysis)
 
 #### 🔗 Software
+- [IDEAL Extract: a suite of tools to streamline Systematic Literature Review processes (Downloading full texts via DOI, Extracting information and screening abstracts via LLMs, evaluating LLM decisions against human ground truth, etc)](https://github.com/IDEAL-consortium/ideal-extract)
 - [PollUp: Open Source Mentimeter alternative of open, non-branded live polling and other classroom interactive features](https://github.com/JonasWeinert/PollUP/)
 - [Phonetic Alphabet Spelling Converter: Simple application that converts text into phonetic alphabet spellings, supporting multiple NATO and military phonetic alphabets](https://github.com/JonasWeinert/PhoneticSpelling/tree/main)
 - [Proposal Tutor: AI Agent that provides feedback on research proposals, built using LangChain & Streamlit](https://github.com/JonasWeinert/ProposalFeedback)

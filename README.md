@@ -7,7 +7,7 @@ I love economics & econometrics, where I focus on experimental and quasi-experim
 
 - 🌎 I am currently based in London
 - 🔭 I’m working as an impact evaluation & causal inference consultant on international developemnt projects in Global Health
-- 🌱 I’m currently learning DevOps & AWS IAC
+- 🌱 I’m currently learning Rust
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jweinert1997/)
 

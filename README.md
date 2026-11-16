@@ -39,6 +39,10 @@ At the World Bank I build generative-AI tools and workflows for teams working on
 - [**PollUP**](https://github.com/JonasWeinert/PollUP): open-source, unbranded alternative to Mentimeter for live classroom polling
 - **AddRepo** ([addrepo.dev](https://addrepo.dev/)): a small web app for granting students access to git repositories
 
+## 🧩 Other open source
+
+- [**cv-site-template**](https://github.com/JonasWeinert/cv-site-template): write your CV once in YAML and get a print-ready PDF and a personal website on GitHub Pages, with eight themes. [My site](https://jonasweinert.github.io/) and CV are built with it.
+
 <details>
 <summary><b>📊 Research code</b></summary>
 

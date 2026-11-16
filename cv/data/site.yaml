@@ -1,0 +1,24 @@
+# Site theming only (copy lives in about.yaml / copy.yaml)
+
+# Locked to campus: no footer dropdown, ?theme= ignored
+theme: campus
+switcher: false
+
+# Theme registry: id → switcher label (CSS themes live under site/src/)
+themes:
+  modern:
+    label: Modern
+  classic:
+    label: Classic
+  ledger:
+    label: Ledger
+  archive:
+    label: Archive
+  fieldnote:
+    label: Fieldnote
+  journal:
+    label: Journal
+  lab:
+    label: Lab
+  campus:
+    label: Campus

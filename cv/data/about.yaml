@@ -1,0 +1,27 @@
+# Shared profile copy (CV ecosystem + site)
+
+tagline: I build generative-AI tools for research and policy teams, and teach machine learning at LSE.
+description: Jonas Weinert, applied AI engineer and data scientist at the World Bank and LSE.
+about: >
+  I'm a consultant at the World Bank, where I build generative-AI tools and workflows
+  for teams working on development, finance and research, and help staff start using
+  them. I also work on impact evaluations in global health and development, at DECRG
+  and before that at DIME and Itad. Outside work I write open-source software, mostly
+  desktop apps for researchers and agent skills for econometrics. I'm doing a PhD in
+  health policy and economics at LSE. There I teach machine learning and data engineering
+  in the Department of Methodology and the Data Science Institute, and I designed and
+  head-tutor a course on working with AI agents, The Agentic AI-Powered Professional.
+
+affiliation: AI Consultant, World Bank Group · PhD Candidate & ML Teaching Assistant, LSE
+
+research_focus:
+  - title: Generative AI at the World Bank
+    detail: Tools and workflows for development, finance and research teams.
+  - title: Evaluating models
+    detail: Comparing LLM and classifier output with human coding.
+  - title: Teaching people to work with agents
+    detail: An LSE course on using Claude Code and customising agent harnesses in everyday work.
+  - title: Software
+    detail: Desktop and web apps in TypeScript, React, Rust/Tauri and Python.
+  - title: Global health economics
+    detail: Impact evaluation and health systems in low- and middle-income countries.

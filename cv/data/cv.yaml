@@ -1,0 +1,15 @@
+# Manifest: lists header + section YAML files (order = CV order)
+output: Weinert_CV
+header: header.yaml
+about: about.yaml
+copy: copy.yaml
+sections:
+  - path: experience.yaml
+    title: Experience
+  - path: projects.yaml
+    title: Selected AI & Software Projects
+  - path: skills.yaml
+    title: Skills
+  - path: education.yaml
+    title: Education
+footer: References available upon request.

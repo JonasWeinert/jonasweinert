@@ -1,0 +1,83 @@
+entries:
+  - name: ClassifAI Studio
+    summary: Text classification with decision models and LLMs, evaluated on your own labels
+    year: 2026
+    url: https://github.com/JonasWeinert/classifai-studio
+    details:
+      - macOS app that runs the same questions through local decision models and LLMs (Claude, GPT, Gemini, Llama) via structured output, then scores them against ground truth (F1, Cohen's κ, calibration error, latency).
+      - Includes manual labelling, bulk runs and on-device fine-tuning with Unsloth/MLX.
+
+  - name: EconAgentSkills
+    summary: Agent skills for modern econometrics research
+    year: 2026
+    url: https://github.com/JonasWeinert/EconAgentSkills
+    details:
+      - Open-source SKILL.md library that steers Claude Code, Codex, Cursor and Gemini CLI toward DIME-style workflows and the modern DiD/IV/RDD literature (fixest, Callaway–Sant'Anna, rdrobust).
+
+  - name: TeXeditor
+    summary: AI LaTeX editor where coding agents edit as reviewable diffs
+    year: 2026
+    url: https://github.com/JonasWeinert/texeditor
+    details:
+      - macOS editor with live PDF preview and SyncTeX that runs the user's own Codex or Claude Code CLI; every agent edit appears inline to accept, reject or refine with feedback.
+
+  - name: Key
+    summary: Research workspace for reading, annotating and searching scientific literature
+    year: 2026
+    url: https://github.com/JonasWeinert/Key-KMP
+    details:
+      - Tauri desktop app (React, PDF.js, Rust, PDFium) with semantic and full-text search, annotations, and citation exploration across a local library.
+
+  - name: IDEAL Extract / MetaScreener
+    summary: LLM screening and extraction for systematic reviews
+    year: 2025
+    url: https://github.com/Sautmann/MetaScreener
+    details:
+      - Hybrid human/LLM paper screening, full-text retrieval by DOI and data extraction, with LLM decisions evaluated against human ground truth (World Bank DECRG).
+
+# Site-only extras (not on the printed CV)
+more:
+  - name: Agent Skills Training
+    summary: World Bank–style training sandbox showing how agent skills improve research and operations tasks
+    year: 2026
+    url: https://github.com/JonasWeinert/skillstraining
+    tags: [agents, training, Stata]
+  - name: PollUP
+    summary: Open-source Mentimeter alternative for live classroom polling
+    year: 2025
+    url: https://github.com/JonasWeinert/PollUP
+    homepage: https://poll-up.vercel.app
+    tags: [TypeScript, teaching, realtime]
+  - name: Academic Feedback
+    summary: Next.js app for structured Gemini feedback on proposals and papers, with OCR and passage-level annotations
+    year: 2025
+    url: https://github.com/JonasWeinert/academicfeedback
+    tags: [TypeScript, Gemini, OCR]
+  - name: ProposalTutor
+    summary: LangChain agent that reviews research proposals for clarity, feasibility, novelty and methods
+    year: 2024
+    url: https://github.com/JonasWeinert/ProposalFeedback
+    homepage: https://proposalfeedback.streamlit.app
+    tags: [Python, LangChain, Streamlit]
+  - name: LATACA
+    summary: On-device transcription with a fine-tuned Whisper model (diarization without PyAnnote) and BART-based content coding
+    year: 2023
+    url: https://github.com/JonasWeinert/LATACA
+    tags: [Python, PyTorch, Whisper]
+  - name: ODK Cleaning Code Generator
+    summary: Generates Stata and R cleaning code from an XLSForm
+    year: 2023
+    url: https://github.com/JonasWeinert/ODK_CleaningcodeGenerator
+    homepage: https://odk-stata.streamlit.app/
+    tags: [Python, Streamlit, survey]
+  - name: Cluster Dataset Merger
+    summary: Web app to merge multi-level survey datasets in wide or long format
+    year: 2023
+    url: https://github.com/JonasWeinert/ClusterDatasetMerger
+    homepage: https://dataset-merge.streamlit.app/
+    tags: [Python, Streamlit, survey]
+  - name: XLSForm Translator
+    summary: Auto-translate XLSForm questionnaires via Google Cloud Translate
+    year: 2023
+    url: https://github.com/JonasWeinert/XLSFormTranslator
+    tags: [Python, ODK, Google Cloud]

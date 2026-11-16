@@ -1,0 +1,3 @@
+[submodule "cv-template"]
+	path = cv-template
+	url = https://github.com/JonasWeinert/cv-site-template.git

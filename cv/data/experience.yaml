@@ -1,0 +1,116 @@
+entries:
+  - title: Consultant, Impact Analytics (Generative AI)
+    organization: World Bank Group
+    start_month: June
+    start_year: 2026
+    end_month: null
+    end_year: Present
+    location: Washington, DC (hybrid, part-time)
+    details:
+      - Develop custom generative-AI harnesses, flows and tools that improve development, finance and research workflows across the World Bank Group.
+      - Write guidance and run training for staff using these tools.
+      - "Skills and technology: LLM applications, agent harnesses, Python, TypeScript, staff training."
+
+  - title: "Course Content Designer & Head Tutor, The Agentic AI-Powered Professional: Reimagining Your Work"
+    organization: London School of Economics and Political Science
+    start_month: null
+    start_year: 2026
+    end_month: null
+    end_year: Present
+    location: London, UK
+    details:
+      - Course convened by Jon Cardoso-Silva and Youngjin Yoo.
+      - Write learner-facing materials and advise on video scripts.
+      - Design activities and assessments built around using Claude Code and customising agent harnesses.
+      - Coordinate the tutors who run the live sessions.
+
+  - title: Research Consultant & Co-PI
+    organization: World Bank Group, Development Economics Research Group (DECRG)
+    start_month: September
+    start_year: 2024
+    end_month: null
+    end_year: Present
+    location: Remote (part-time)
+    details:
+      - Co-designed and built open-source LLM tooling for systematic-review screening and data extraction (IDEAL Extract, now MetaScreener), with LLM decisions evaluated against human reviewers.
+      - Co-PI on a retrospective impact evaluation of pay-for-performance and other health-financing mechanisms in Afghanistan, 2001–2025.
+      - Co-producing systematic reviews on AI use in LMIC healthcare and on quality-of-care measurement in Sub-Saharan Africa.
+
+  - title: Teaching Assistant, Machine Learning & Data Science
+    organization: LSE Department of Methodology & Data Science Institute
+    start_month: September
+    start_year: 2025
+    end_month: null
+    end_year: Present
+    location: London, UK
+    details:
+      - Teach undergraduate seminars on machine learning, data science and data engineering for social science, in Python and R.
+      - Outstanding Class Teacher Award, based on student feedback.
+
+  - title: Research Consultant
+    organization: World Bank Group, Development Impact Evaluation (DIME)
+    start_month: September
+    start_year: 2023
+    end_month: September
+    end_year: "2024"
+    location: Washington, DC
+    details:
+      - Used machine learning for cross-country heterogeneity analysis in randomised and quasi-experimental impact evaluations across Senegal, Burkina Faso, Mauritania and Niger.
+      - Analysed, visualised and presented household and individual data from thousands of households.
+      - "Skills and technology: R, Python, Stata, Git, econometrics, machine learning."
+
+  - title: MEL Data Analyst Consultant
+    organization: Itad
+    start_month: September
+    start_year: 2022
+    end_month: January
+    end_year: "2024"
+    location: London, UK
+    details:
+      - "Evaluation of the Global Fund's Service Delivery Innovations initiative (Human Resources for Health and Quality Improvement) in Chad, DRC, Mali, Niger and Nigeria."
+      - Liaised between and reported to the Global Fund, three implementing partners (WHO, Jhpiego, KIT Royal Tropical Institute), data-collection partners in five countries, and principal investigators at LSHTM and LSE.
+      - Designed survey tools in ODK and coordinated data collection with more than 50 enumerators in four countries.
+      - Planned, ran and reported quasi-experimental analyses of survey and routine health-register data.
+
+  - title: Independent Data Science & Software Consultant
+    organization: Freelance
+    start_month: June
+    start_year: 2020
+    end_month: null
+    end_year: Present
+    location: London, UK
+    details:
+      - Data science, ML and software projects for NGOs and small businesses.
+      - Built a donation-propensity ML pipeline on historic donor data for International Justice Mission.
+      - Built an impact-evaluation results dashboard that pulls and visualises metrics from several research units of an international development evaluation.
+
+  - title: Contractor, Gender and Human Rights Branch
+    organization: United Nations Population Fund (UNFPA)
+    start_month: March
+    start_year: 2022
+    end_month: September
+    end_year: "2022"
+    location: New York, USA (remote)
+    details:
+      - Produced a 9-unit self-paced online course on gender-biased sex selection data and programme evaluation for UNFPA staff and government officials.
+      - Co-organised a research colloquium between UNFPA technical staff and leading academics.
+
+  - title: Co-Founder and Chair
+    organization: "NGO: Human Rights Week (Menschenrechtswoche Tübingen e.V.)"
+    start_month: November
+    start_year: 2017
+    end_month: June
+    end_year: "2020"
+    location: Tübingen, Germany
+    details:
+      - Led 30 volunteers across 6 teams to run a week-long festival for 27 NGOs that drew more than 8,000 visitors.
+
+  - title: Paramedic
+    organization: German Red Cross
+    start_month: October
+    start_year: 2015
+    end_month: September
+    end_year: "2021"
+    location: Künzelsau, Germany
+    details:
+      - Full-time October 2015 – April 2017 and January – September 2021, including COVID-19 response.

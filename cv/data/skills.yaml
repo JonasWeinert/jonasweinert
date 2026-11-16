@@ -1,0 +1,11 @@
+entries:
+  - area: AI & LLMs
+    skills: LLM application design, agent harnesses and skills (Claude Code, Codex), structured output, evaluation against human labels, fine-tuning (Unsloth/MLX, Whisper), OpenAI/Anthropic/Gemini APIs, LangChain, Hugging Face, PyTorch
+  - area: Software
+    skills: Python, TypeScript, React, Next.js, Rust (Tauri), R, Stata, SQL, Git, GitHub Actions, Bash
+  - area: Data & methods
+    skills: Causal inference, econometrics, machine learning, survey design (ODK), data visualisation
+  - area: Consulting
+    skills: Working with clients and partners, coordinating projects across countries, training and workshops, writing for non-technical readers
+  - area: Languages
+    skills: German (native), English (C2), French (conversational)

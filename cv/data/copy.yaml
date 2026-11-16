@@ -1,0 +1,201 @@
+# Per-theme site copy (wording only — visual themes live in site.yaml)
+
+modern:
+  kicker: LSE · World Bank · Open source
+  tagline: Causal inference, global health, and tools that make research faster.
+  cta_primary: View research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: Research
+    research_title: Research interests
+    experience_eyebrow: Experience
+    experience_title: Experience
+    projects_eyebrow: Projects
+    projects_title: Projects & tools
+    education_eyebrow: Education
+    education_title: Education
+    contact_eyebrow: Contact
+    contact_title: Get in touch
+  footer: Built from the same data as the CV.
+
+classic:
+  kicker: London School of Economics and Political Science
+  tagline: Health economics, impact evaluation, and research software.
+  cta_primary: Research interests
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: ""
+    research_title: Research interests
+    experience_eyebrow: ""
+    experience_title: Professional experience
+    projects_eyebrow: ""
+    projects_title: Selected projects
+    education_eyebrow: ""
+    education_title: Education
+    contact_eyebrow: ""
+    contact_title: Contact
+  footer: Updated from the CV data files.
+
+ledger:
+  kicker: LSE · World Bank
+  tagline: Health economics, impact evaluation, and open research tools.
+  cta_primary: Research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: ""
+    research_title: Research
+    experience_eyebrow: ""
+    experience_title: Experience
+    projects_eyebrow: ""
+    projects_title: Projects
+    education_eyebrow: ""
+    education_title: Education
+    contact_eyebrow: ""
+    contact_title: Contact
+  footer: Generated from the CV YAML files.
+
+archive:
+  kicker: Research profile
+  tagline: Health economics, impact evaluation, and research software.
+  cta_primary: View research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: "01"
+    research_title: Research interests
+    experience_eyebrow: "02"
+    experience_title: Professional experience
+    projects_eyebrow: "03"
+    projects_title: Projects & software
+    education_eyebrow: "04"
+    education_title: Education
+    contact_eyebrow: "05"
+    contact_title: Contact
+  footer: Built from the same data as the CV.
+
+fieldnote:
+  kicker: LSE · World Bank
+  tagline: Impact evaluation, health systems, and tools for applied research.
+  cta_primary: View research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: Research
+    research_title: Research interests
+    experience_eyebrow: Experience
+    experience_title: Professional experience
+    projects_eyebrow: Projects
+    projects_title: Projects & tools
+    education_eyebrow: Education
+    education_title: Education
+    contact_eyebrow: Contact
+    contact_title: Contact
+  footer: Built from the same data as the CV.
+
+journal:
+  kicker: LSE · World Bank
+  tagline: Causal methods in global health, and the software that supports them.
+  cta_primary: View research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: ""
+    research_title: Research interests
+    experience_eyebrow: ""
+    experience_title: Professional experience
+    projects_eyebrow: ""
+    projects_title: Projects & software
+    education_eyebrow: ""
+    education_title: Education
+    contact_eyebrow: ""
+    contact_title: Contact
+  footer: Built from the same data as the CV.
+
+lab:
+  kicker: Research index
+  tagline: Causal methods, LMIC health systems, and research tooling.
+  cta_primary: View research
+  cta_secondary: Download CV
+  nav:
+    research: Research
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: section
+    research_title: Research
+    experience_eyebrow: section
+    experience_title: Experience
+    projects_eyebrow: section
+    projects_title: Projects
+    education_eyebrow: section
+    education_title: Education
+    contact_eyebrow: section
+    contact_title: Contact
+  footer: Built from CV YAML → site.
+
+campus:
+  kicker: World Bank Group · LSE
+  tagline: Generative AI, data science and impact evaluation.
+  cta_primary: What I work on
+  cta_secondary: Download CV
+  nav:
+    research: Focus
+    experience: Experience
+    projects: Projects
+    education: Education
+    contact: Contact
+    cv: CV
+  sections:
+    research_eyebrow: ""
+    research_title: What I work on
+    experience_eyebrow: ""
+    experience_title: Experience
+    projects_eyebrow: ""
+    projects_title: AI & software projects
+    education_eyebrow: ""
+    education_title: Education
+    contact_eyebrow: ""
+    contact_title: Contact
+  footer: Built from the same data as the CV.

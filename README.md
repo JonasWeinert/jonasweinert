@@ -42,7 +42,6 @@ At the World Bank I build generative-AI tools and workflows for teams working on
 <details>
 <summary><b>📊 Research code</b></summary>
 
-- [Uganda chatbot cluster-RCT](https://github.com/JonasWeinert/UgandaChatbotCRCT): cleaning and analysis code (Stata)
 - [Risk perception and policy preferences during a pandemic: experimental evidence from El Salvador](https://github.com/JonasWeinert/39545_dissertation)
 - [Estimating mean total medical costs under moderate censoring](https://github.com/JonasWeinert/Estimating-Mean-Total-Costs-under-Moderate-Censoring): benchmarking survival-analysis estimators
 - [SEM of the Health Belief Model](https://github.com/JonasWeinert/MY255) (R)

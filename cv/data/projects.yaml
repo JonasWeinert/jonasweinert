@@ -22,11 +22,11 @@ entries:
       - macOS editor with live PDF preview and SyncTeX that runs the user's own Codex or Claude Code CLI; every agent edit appears inline to accept, reject or refine with feedback.
 
   - name: Key
-    summary: Research workspace for reading, annotating and searching scientific literature
+    summary: "A research workspace for macOS: read, annotate, search and connect the literature you work with"
     year: 2026
     url: https://github.com/JonasWeinert/Key-KMP
     details:
-      - Tauri desktop app (React, PDF.js, Rust, PDFium) with semantic and full-text search, annotations, and citation exploration across a local library.
+      - Electron app with a Rust backend for the ML and AI features. PDFs, web pages, books, audio, video, notes and canvases live in one library, searchable by words and by meaning, with the people, journals, topics and citations around every paper.
 
   - name: IDEAL Extract / MetaScreener
     summary: LLM screening and extraction for systematic reviews

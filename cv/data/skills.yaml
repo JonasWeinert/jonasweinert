@@ -2,7 +2,7 @@ entries:
   - area: AI & LLMs
     skills: LLM application design, agent harnesses and skills (Claude Code, Codex), structured output, evaluation against human labels, fine-tuning (Unsloth/MLX, Whisper), OpenAI/Anthropic/Gemini APIs, LangChain, Hugging Face, PyTorch
   - area: Software
-    skills: Python, TypeScript, React, Next.js, Rust (Tauri), R, Stata, SQL, Git, GitHub Actions, Bash
+    skills: Python, TypeScript, React, Next.js, Rust, Electron, Tauri, R, Stata, SQL, Git, GitHub Actions, Bash
   - area: Data & methods
     skills: Causal inference, econometrics, machine learning, survey design (ODK), data visualisation
   - area: Consulting

@@ -16,7 +16,7 @@
 
 At the World Bank I build generative-AI tools and workflows for teams working on development, finance and research, and help staff start using them. My background is in applied econometrics and impact evaluation, so before relying on a model I usually want to know how often it agrees with people. At LSE I teach machine learning, head-tutor a course on working with AI agents, and am doing a PhD in health policy and economics.
 
-- 🛠️ Python · TypeScript/React · Rust (Tauri) · R/Stata · LLM APIs, agent harnesses, structured output, evals
+- 🛠️ Python · TypeScript/React · Rust · Electron/Tauri · R/Stata · LLM APIs, agent harnesses, structured output, evals
 - 🎓 Outstanding Class Teacher Award, LSE
 - 📍 London · he/him
 
@@ -27,7 +27,7 @@ At the World Bank I build generative-AI tools and workflows for teams working on
 | [**ClassifAI Studio**](https://github.com/JonasWeinert/classifai-studio) | Classify and label text with local decision models and LLMs, then score them against your own labels (F1, κ, calibration). Includes on-device fine-tuning. |
 | [**EconAgentSkills**](https://github.com/JonasWeinert/EconAgentSkills) ⭐ | Agent skills that make Claude Code, Codex, Cursor and Gemini CLI follow DIME conventions and the modern DiD / IV / RDD literature. |
 | [**TeXeditor**](https://github.com/JonasWeinert/texeditor) | Local AI LaTeX editor for macOS: Codex or Claude Code edit your files, and every change shows up as a reviewable inline diff. |
-| [**Key**](https://github.com/JonasWeinert/Key-KMP) | Research workspace for reading, annotating and searching scientific PDFs by words and by meaning (Tauri, React, PDF.js, Rust). |
+| [**Key**](https://github.com/JonasWeinert/Key-KMP) | A research workspace for macOS: read, annotate, search and connect the literature you work with. One library for papers, web pages, books, media and notes, searchable by meaning (Electron, Rust backend for ML/AI). |
 | [**MetaScreener**](https://github.com/Sautmann/MetaScreener) | Hybrid human/LLM screening and extraction for systematic reviews, evaluated against human reviewers (World Bank DECRG; started as [IDEAL Extract](https://github.com/IDEAL-consortium/ideal-extract)). |
 
 ## 🎓 Teaching

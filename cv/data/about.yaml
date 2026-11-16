@@ -22,6 +22,6 @@ research_focus:
   - title: Teaching people to work with agents
     detail: An LSE course on using Claude Code and customising agent harnesses in everyday work.
   - title: Software
-    detail: Desktop and web apps in TypeScript, React, Rust/Tauri and Python.
+    detail: Desktop and web apps in TypeScript, React, Electron, Rust and Python.
   - title: Global health economics
     detail: Impact evaluation and health systems in low- and middle-income countries.

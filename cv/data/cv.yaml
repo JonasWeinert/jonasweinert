@@ -1,5 +1,12 @@
 # Manifest: lists header + section YAML files (order = CV order)
 output: Weinert_CV
+summary: >
+  Applied AI engineer and data scientist. At the World Bank I build generative-AI tools
+  and workflows used weekly by research and operations teams, and have trained 100+ staff
+  to use AI in their work. I evaluate LLM output against human judgement, drawing on a
+  background in econometrics and impact evaluation across Africa and Afghanistan. PhD
+  candidate at LSE, where I teach machine learning and am designing an executive
+  education course on agentic AI.
 header: header.yaml
 about: about.yaml
 copy: copy.yaml
@@ -12,4 +19,3 @@ sections:
     title: Skills
   - path: education.yaml
     title: Education
-footer: References available upon request.

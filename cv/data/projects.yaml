@@ -1,42 +1,39 @@
 entries:
-  - name: ClassifAI Studio
-    summary: Text classification with decision models and LLMs, evaluated on your own labels
-    year: 2026
-    url: https://github.com/JonasWeinert/classifai-studio
-    details:
-      - macOS app that runs the same questions through local decision models and LLMs (Claude, GPT, Gemini, Llama) via structured output, then scores them against ground truth (F1, Cohen's κ, calibration error, latency).
-      - Includes manual labelling, bulk runs and on-device fine-tuning with Unsloth/MLX.
-
   - name: EconAgentSkills
     summary: Agent skills for modern econometrics research
     year: 2026
     url: https://github.com/JonasWeinert/EconAgentSkills
     details:
-      - Open-source SKILL.md library that steers Claude Code, Codex, Cursor and Gemini CLI toward DIME-style workflows and the modern DiD/IV/RDD literature (fixest, Callaway–Sant'Anna, rdrobust).
+      - 10 open-source agent skills (SKILL.md) that make Claude Code, Codex, Cursor and Gemini CLI follow DIME conventions and modern DiD/IV/RDD methods (fixest, Callaway–Sant'Anna, rdrobust). 30 GitHub stars, 4 forks and 200+ clones.
+
+  - name: ClassifAI Studio
+    summary: Text classification with decision models and LLMs, evaluated on your own labels
+    year: 2026
+    url: https://github.com/JonasWeinert/classifai-studio
+    details:
+      - macOS app (Tauri, Rust, Python) that runs the same questions through local decision models and LLMs (Claude, GPT, Gemini, Llama) via structured output, scores them against ground truth (F1, Cohen's κ, calibration error, latency) and fine-tunes models on-device with Unsloth/MLX. Used by other PhD researchers.
 
   - name: TeXeditor
     summary: AI LaTeX editor where coding agents edit as reviewable diffs
     year: 2026
     url: https://github.com/JonasWeinert/texeditor
     details:
-      - macOS editor with live PDF preview and SyncTeX that runs the user's own Codex or Claude Code CLI; every agent edit appears inline to accept, reject or refine with feedback.
+      - macOS editor (Electron) with live PDF preview and SyncTeX that runs the user's own Codex or Claude Code CLI; every agent edit appears inline to accept, reject or refine. Used by other PhD researchers.
 
   - name: Key
     summary: "A research workspace for macOS: read, annotate, search and connect the literature you work with"
     year: 2026
     url: https://github.com/JonasWeinert/Key-KMP
     details:
-      - Electron app with a Rust backend for the ML and AI features. PDFs, web pages, books, audio, video, notes and canvases live in one library, searchable by words and by meaning, with the people, journals, topics and citations around every paper.
-
-  - name: IDEAL Extract / MetaScreener
-    summary: LLM screening and extraction for systematic reviews
-    year: 2025
-    url: https://github.com/Sautmann/MetaScreener
-    details:
-      - Hybrid human/LLM paper screening, full-text retrieval by DOI and data extraction, with LLM decisions evaluated against human ground truth (World Bank DECRG).
+      - Electron app with a Rust backend for the ML and AI features, including vector search. PDFs, web pages, books, audio, video, notes and canvases live in one library, searchable by words and by meaning, with the people, journals, topics and citations around every paper.
 
 # Site-only extras (not on the printed CV)
 more:
+  - name: MetaScreener (formerly IDEAL Extract)
+    summary: Hybrid human/LLM screening and extraction for systematic reviews; 94% recall against human reviewers on 700 abstracts
+    year: 2025
+    url: https://github.com/Sautmann/MetaScreener
+    tags: [LLM, evals, World Bank]
   - name: Agent Skills Training
     summary: World Bank–style training sandbox showing how agent skills improve research and operations tasks
     year: 2026

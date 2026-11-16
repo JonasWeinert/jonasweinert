@@ -7,22 +7,22 @@ entries:
     end_year: Present
     location: Washington, DC (hybrid, part-time)
     details:
-      - Develop custom generative-AI harnesses, flows and tools that improve development, finance and research workflows across the World Bank Group.
-      - Write guidance and run training for staff using these tools.
-      - "Skills and technology: LLM applications, agent harnesses, Python, TypeScript, staff training."
+      - Built 5 generative-AI (LLM) tools and workflows for research, operations and monitoring teams, now used weekly. One drafting workflow lets teams produce a first draft of a policy brief or research paper in hours instead of weeks.
+      - Trained 100+ staff across 12 units on using AI in research and operations work.
+      - Write an internal newsletter and upskilling guide on AI literacy, read by hundreds of World Bank staff.
+      - Work with individuals and teams to rework their workflows so AI is built in from the start.
 
   - title: "Course Content Designer & Head Tutor, The Agentic AI-Powered Professional: Reimagining Your Work"
-    organization: London School of Economics and Political Science
+    organization: LSE online executive education, convened by Jon Cardoso-Silva and Youngjin Yoo
     start_month: null
     start_year: 2026
     end_month: null
     end_year: Present
     location: London, UK
     details:
-      - Course convened by Jon Cardoso-Silva and Youngjin Yoo.
-      - Write learner-facing materials and advise on video scripts.
-      - Design activities and assessments built around using Claude Code and customising agent harnesses.
-      - Coordinate the tutors who run the live sessions.
+      - Designing 6 modules and 22 hands-on activities and assessments that teach working professionals to use Claude Code and customise agent harnesses in their own work.
+      - Write the learner-facing materials and advise on scripts for 20+ course videos.
+      - Head tutor from launch in Q1 2027, with 65+ learners per cohort; coordinate 4+ tutors across 20+ live sessions.
 
   - title: Research Consultant & Co-PI
     organization: World Bank Group, Development Economics Research Group (DECRG)
@@ -32,9 +32,9 @@ entries:
     end_year: Present
     location: Remote (part-time)
     details:
-      - Co-designed and built open-source LLM tooling for systematic-review screening and data extraction (IDEAL Extract, now MetaScreener), with LLM decisions evaluated against human reviewers.
-      - Co-PI on a retrospective impact evaluation of pay-for-performance and other health-financing mechanisms in Afghanistan, 2001–2025.
-      - Co-producing systematic reviews on AI use in LMIC healthcare and on quality-of-care measurement in Sub-Saharan Africa.
+      - Co-designed, built and evaluated MetaScreener, an open-source LLM tool that screens papers and extracts data for systematic reviews. It reached 94% recall against human reviewers on 700 abstracts and cut screening from months and tens of thousands of dollars in research-assistant costs to two weeks with at most one assistant.
+      - Co-PI on a retrospective impact evaluation of pay-for-performance health financing in Afghanistan, 2001–2025, using quasi-experimental econometrics and data envelopment analysis across 34 provinces and 4 financing modalities.
+      - Co-authored a review of AI interventions supporting frontline health workers in low-resource settings, published as a background paper for Chapter 5 of the World Development Report 2026. Co-authoring a second review on quality of care in global health interventions.
 
   - title: Teaching Assistant, Machine Learning & Data Science
     organization: LSE Department of Methodology & Data Science Institute
@@ -44,8 +44,19 @@ entries:
     end_year: Present
     location: London, UK
     details:
-      - Teach undergraduate seminars on machine learning, data science and data engineering for social science, in Python and R.
-      - Outstanding Class Teacher Award, based on student feedback.
+      - Teach 10 seminar groups (90+ students) a year on machine learning, data science and data engineering, in Python and R.
+      - Outstanding Class Teacher Award (2025), based on student feedback.
+
+  - title: Independent Data Science & AI Consultant
+    organization: Freelance
+    start_month: null
+    start_year: 2017
+    end_month: null
+    end_year: Present
+    location: London, UK / remote
+    details:
+      - Designing an automated monitoring pipeline for data-centre equipment (cooling and other systems) that uses NLP and XGBoost on unstructured, heterogeneous monitoring data.
+      - Data science, ML and software projects for NGOs and small businesses, including donor-propensity modelling for International Justice Mission and an impact-evaluation results dashboard for an international development evaluation.
 
   - title: Research Consultant
     organization: World Bank Group, Development Impact Evaluation (DIME)
@@ -55,9 +66,8 @@ entries:
     end_year: "2024"
     location: Washington, DC
     details:
-      - Used machine learning for cross-country heterogeneity analysis in randomised and quasi-experimental impact evaluations across Senegal, Burkina Faso, Mauritania and Niger.
-      - Analysed, visualised and presented household and individual data from thousands of households.
-      - "Skills and technology: R, Python, Stata, Git, econometrics, machine learning."
+      - Ran machine-learning heterogeneity analysis (GenericML, Chernozhukov et al.) across randomised and quasi-experimental evaluations of adaptive social protection in Senegal, Burkina Faso, Mauritania and Niger, covering 500+ households.
+      - Built R and Python pipelines, dashboards and reproducibility packages used by research and policy teams.
 
   - title: MEL Data Analyst Consultant
     organization: Itad
@@ -67,22 +77,9 @@ entries:
     end_year: "2024"
     location: London, UK
     details:
-      - "Evaluation of the Global Fund's Service Delivery Innovations initiative (Human Resources for Health and Quality Improvement) in Chad, DRC, Mali, Niger and Nigeria."
-      - Liaised between and reported to the Global Fund, three implementing partners (WHO, Jhpiego, KIT Royal Tropical Institute), data-collection partners in five countries, and principal investigators at LSHTM and LSE.
-      - Designed survey tools in ODK and coordinated data collection with more than 50 enumerators in four countries.
-      - Planned, ran and reported quasi-experimental analyses of survey and routine health-register data.
-
-  - title: Independent Data Science & Software Consultant
-    organization: Freelance
-    start_month: June
-    start_year: 2020
-    end_month: null
-    end_year: Present
-    location: London, UK
-    details:
-      - Data science, ML and software projects for NGOs and small businesses.
-      - Built a donation-propensity ML pipeline on historic donor data for International Justice Mission.
-      - Built an impact-evaluation results dashboard that pulls and visualises metrics from several research units of an international development evaluation.
+      - Main point of contact between the Global Fund, WHO, Jhpiego, KIT and partners in five countries (Chad, DRC, Mali, Niger, Nigeria) for the evaluation of the Global Fund's Human Resources for Health and Quality Improvement initiative.
+      - Designed survey tools in ODK and ran data collection with 50+ enumerators in four countries, covering 77 health facilities and hundreds of patients.
+      - Analysed survey and health-register data with quasi-experimental methods and reported to policymakers, donors and research partners. Findings fed into the Global Fund's strategic initiative on human resources for health.
 
   - title: Contractor, Gender and Human Rights Branch
     organization: United Nations Population Fund (UNFPA)
@@ -92,8 +89,7 @@ entries:
     end_year: "2022"
     location: New York, USA (remote)
     details:
-      - Produced a 9-unit self-paced online course on gender-biased sex selection data and programme evaluation for UNFPA staff and government officials.
-      - Co-organised a research colloquium between UNFPA technical staff and leading academics.
+      - Produced a 9-unit online course on gender-biased sex selection data and programme evaluation for UNFPA staff and government officials, and co-organised a research colloquium with leading academics.
 
   - title: Co-Founder and Chair
     organization: "NGO: Human Rights Week (Menschenrechtswoche Tübingen e.V.)"
@@ -113,4 +109,4 @@ entries:
     end_year: "2021"
     location: Künzelsau, Germany
     details:
-      - Full-time October 2015 – April 2017 and January – September 2021, including COVID-19 response.
+      - Full-time 2015–2017 and 2021, including COVID-19 response.
